@@ -14,13 +14,13 @@ export class AboutComponent implements OnInit {
 
     meta.addTags([ 
       {
-        name: 'author', content: 'Gary Simon'
+        name: 'author', content: ''
       },
       {
-        name: 'keywords', content: 'kws'
+        name: 'keywords', content: ''
       },
       {
-        name: 'description', content: 'aaaaaaaaaaaaaaaaaaaaaa.'
+        name: 'description', content: ''
       },
     ])
 
